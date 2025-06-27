@@ -3,7 +3,7 @@
   "image": "mcr.microsoft.com/devcontainers/miniconda",
   "customizations": {
     "codespaces": {
-      "machine": "basicLinux"
+      "machine": "basicLinux32gb"
     },
     "vscode": {
       "settings": { 
